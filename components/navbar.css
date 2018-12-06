@@ -1,0 +1,29 @@
+.navbar {
+	display: flex;
+	font-family: "avenir";
+	align-items: center;
+	justify-content: space-between;
+	height: 40px;
+	background-color: #3D98B2;
+	color: white;
+	padding: 20px;}
+
+.title {
+	font-size: 24px ;}
+
+.logounicar {
+	width:100px;
+height:100px;
+margin-top: 6px;}
+
+
+ul {list-style: none ;
+padding: 0px;}
+
+ul> li{
+	display:inline;
+	}
+
+.list-navbar li {
+	padding: 10px;
+}

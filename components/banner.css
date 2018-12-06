@@ -1,0 +1,35 @@
+
+.banner{
+	background-image: url(http://openwalls.com/image/29796/humid_city_road_1600x900.jpg);
+	height: calc(100vh - 198px);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.option {color: black;
+font-family: avenir;
+background-color: white;
+border-radius: 8px;
+padding: 25px 30px;
+opacity: 0.7;}
+
+.option:hover {
+  background-color: #3D98B2;}
+
+.montageiphone {
+ 	height: 400px;
+ 	margin-top: 16px;
+
+
+ }
+
+ .banner2 {
+ 	padding: 40px;
+ 	display: flex;
+ 	font-family: "Avenir";
+	text-align: left;
+	align-items: center;
+ }
